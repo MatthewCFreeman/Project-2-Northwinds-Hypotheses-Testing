@@ -5,7 +5,7 @@ Formal project to gather sales data from a popular SQL database and test hypothe
 
 **Project-2-Northwinds-Hpothesis-Testing.ipynb** is the notebook where the data was scrubbed, analysed, and tested.
 
-**Project-2-Executive-Summary.ppt** is the presentation summarising the analysis and conclusions.
+**Project-2-Executive-Summary.pdf** is a presentation summarising the analysis and conclusions.
 
 **Northwind_small.sqlite** is the copy of the SQL database being used.
 
